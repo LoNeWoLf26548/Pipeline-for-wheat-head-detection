@@ -1,0 +1,6 @@
+{
+"INPUT ORTHOMOSAIC IMAGE PATH":"/home/draken/wheat/Dairy farm ear count 6 mar 2024 wheat alt 12 Flight 1 25000.jpg",
+"FINAL OUTPUT ORTHOMOSAIC IMAGE + XLXS FILE":"/home/draken/wheat/OUTPUT",
+"PLOT EXTRACTION MODEL PATH":"/home/draken/wheat/models/plotcrop_best_1may.pt",
+"WHEAT HEAD DETECTION PATH":"/home/draken/wheat/models/wheathead model best.pt"
+}
