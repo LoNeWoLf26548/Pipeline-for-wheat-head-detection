@@ -33,6 +33,9 @@ def main(input_orthomosaic_image_path, output_path):
     # Extract bounding box images
     extract_bounding_box_images(input_orthomosaic_image_path, cropped_plots_folder)
 
+# preprocessing the plots 
+    
+
     # Process each extracted plot
     input_image_folder = "extracted_plots"
     data = process_plots(input_image_folder, wheat_head_model, output_folder_for_stitched_images)
